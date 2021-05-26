@@ -1,0 +1,147 @@
+*{
+    margin: 20;
+    padding: 0;
+}
+
+body {
+background-color: rgb(255, 255, 255);
+}
+
+#boceto {
+
+width: 950px;
+margin: auto;
+
+}
+
+nav{
+
+    width: 950px;
+    height: 20px;
+    background-color: rgb(255, 255, 255);
+    text-align: right;
+    
+    }
+
+    footer ul li {
+
+        display: inline-block;
+        padding: 10px;
+        color: #ddaa44;
+    }
+
+
+
+header {
+width: 950px;
+height: 50px;
+background-color: rgb(255, 255, 255);
+position: relative;
+text-align: center;
+} 
+
+
+
+
+section{
+
+    width: 950px;
+    height: 2050px;
+    background-color: rgb(255, 255, 255);
+text-align: center ;
+margin-top: 130px;
+}
+
+header ul{
+box-shadow: 1px 1px 5px rgb(221, 220, 220);
+padding: 0%;
+margin: 0%;
+width: 100%;
+height: 50px;
+}
+
+#menu {
+
+width: 500px;
+padding-top: 10px;
+margin: auto;
+
+}
+
+footer{
+
+    width: 950px;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+
+}
+
+h1 {
+
+    color: #ddaa44;
+    font-size: 30px;
+}
+
+header h1 {
+
+ text-align: center;
+ color: #ddaa44;
+ font-family: 'Architects Daughter', sans-serif ;
+font-size: 50px;
+line-height: 1.2em;
+}
+
+h1 {
+
+    text-align: center;
+    color: #ddaa44;
+    font-family: 'Architects Daughter', sans-serif ;
+   font-size: 30px;
+   line-height: 1.2em;
+   }
+
+   h2 {
+
+font-family: sans-serif;
+   }
+
+   .button {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    padding: 12px 23px;
+    border: 1px solid #9b7833;
+    border-radius: 4px;
+    background: #ffc654;
+    background: -webkit-gradient(linear, left top, left bottom, from(#ffc654), to(#9b7833));
+    background: -moz-linear-gradient(top, #ffc654, #9b7833);
+    background: linear-gradient(to bottom, #ffc654, #9b7833);
+    text-shadow: #6f5625 1px 1px 1px;
+    font: normal normal bold 20px arial;
+    color: #ffffff;
+    text-decoration: none;
+}
+.button:hover,
+.button:focus {
+    border: 1px solid #deac49;
+    background: #ffee65;
+    background: -webkit-gradient(linear, left top, left bottom, from(#ffee65), to(#ba903d));
+    background: -moz-linear-gradient(top, #ffee65, #ba903d);
+    background: linear-gradient(to bottom, #ffee65, #ba903d);
+    color: #ffffff;
+    text-decoration: none;
+}
+.button:active {
+    background: #9b7833;
+    background: -webkit-gradient(linear, left top, left bottom, from(#9b7833), to(#9b7833));
+    background: -moz-linear-gradient(top, #9b7833, #9b7833);
+    background: linear-gradient(to bottom, #9b7833, #9b7833);
+}
+
+
+
+
+
+
+
+
